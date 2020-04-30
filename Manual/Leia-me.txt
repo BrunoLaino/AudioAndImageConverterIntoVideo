@@ -1,0 +1,17 @@
+1 - Instale o framework na sua maquina seguindo o video abaixo:
+https://www.youtube.com/watch?v=MADW3Tqe9cY
+
+2 - inserindo o audio com a imagem:
+você recebeu uma estrutura de pastas compostas de "Entrada","Saida" e "Processados". 
+	para começar a usar vá pasta Entrada e coloque o audio e a imagem desejada em suas respectivas pastas
+	**lembrando que o formato do audio SEMPRE tem que ser .mp3 e a imagem SEMPRE tem que ser .jpg e APENAS um de cada por pasta
+	 
+3 - Após posicionar o audio e a imagem nas pastas corretas clique em processar uma tela preta irá abrir e fechar 
+	em seguida cheque a pasta "Saida" para ver o resultado. 
+	Em caso de existir um video na pasta de saida o programa irá perguntar se deseja fazer a substituição(y ou N)
+
+4 - todos os arquivos processados vão para a pasta de "Processados" com suas respectivas datas no nome do arquivo
+
+OBS: junto deste manual se encontra os arquivos utlizados durante o desenvolvimento
+
+	 
