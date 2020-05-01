@@ -2,3 +2,5 @@ PRJ/Processados/Audio/*.mp3
 PRJ/Processados/Imagem/*.jpg
 PRJ/Processados/Video/*.mp4
 PRJ/Saida/*.mp4
+PRJ/Entrada/Audio/*.mp3
+PRJ/Entrada/Imagem/*.jpg
