@@ -18,6 +18,6 @@ $pathVideoHist="Processados\Video\"+[System.IO.Path]::GetFileNameWithoutExtensio
 
 ffmpeg -loop 1 -i $pathimage -i $pathAudio -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -shortest -s hd1080 $pathVideo
 
-Copy-Item $pathAudio $pathAudioHist
-Copy-Item $pathimage $pathimageHist
+Move-Item $pathAudio $pathAudioHist
+Move-Item $pathimage $pathimageHist
 Copy-Item $pathVideo $pathVideoHist
